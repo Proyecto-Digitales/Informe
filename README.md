@@ -1,4 +1,5 @@
 INFORME
+
 Tema: Suma y resta octal implementado en app inventor
 1.	PLANTEAMIENTO DEL PROBLEMA
 Sumar y restar dos números en el sistema octal diseñando una aplicación para Android en app inventor que nos permita ingresar números decimales, convertirlos a octales, realizar el cálculo y nos indique el resultado tanto en decimal como en octal.
